@@ -1,0 +1,24 @@
+.list_items{
+    list-style-type: none;
+}
+
+.main_div{
+    display: flex;
+}
+
+.extra1{
+    width: 30%
+}
+
+.extra2{
+    width: 50%
+}
+
+.extra3{
+    width: 40%;
+    text-align: end;
+}
+
+.list1{
+    background-color: bisque;
+}
